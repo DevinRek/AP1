@@ -1,0 +1,15 @@
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\bin\Debug\窗口测试程序.exe.config
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\bin\Debug\窗口测试程序.exe
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\bin\Debug\窗口测试程序.pdb
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\obj\Debug\窗口测试程序.csprojAssemblyReference.cache
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\obj\Debug\窗口测试程序.Form1.resources
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\obj\Debug\窗口测试程序.Properties.Resources.resources
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\obj\Debug\窗口测试程序.csproj.GenerateResource.cache
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\obj\Debug\窗口测试程序.csproj.CoreCompileInputs.cache
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\obj\Debug\窗口测试程序.exe
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\obj\Debug\窗口测试程序.pdb
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\obj\Debug\窗口测试程序.csproj.CopyComplete
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\bin\Debug\Test1.dll
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\bin\Debug\Test1.pdb
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\bin\Debug\Await.dll
+D:\VSDevin\WWWROOT\asasas\窗口测试程序\bin\Debug\Await.pdb

@@ -1,0 +1,9 @@
+D:\VSDevin\WWWROOT\asasas\css1\bin\Debug\netstandard2.0\Test1.deps.json
+D:\VSDevin\WWWROOT\asasas\css1\bin\Debug\netstandard2.0\Test1.dll
+D:\VSDevin\WWWROOT\asasas\css1\bin\Debug\netstandard2.0\Test1.pdb
+D:\VSDevin\WWWROOT\asasas\css1\obj\Debug\netstandard2.0\Test1.csproj.CoreCompileInputs.cache
+D:\VSDevin\WWWROOT\asasas\css1\obj\Debug\netstandard2.0\Test1.AssemblyInfoInputs.cache
+D:\VSDevin\WWWROOT\asasas\css1\obj\Debug\netstandard2.0\Test1.AssemblyInfo.cs
+D:\VSDevin\WWWROOT\asasas\css1\obj\Debug\netstandard2.0\Test1.dll
+D:\VSDevin\WWWROOT\asasas\css1\obj\Debug\netstandard2.0\Test1.pdb
+D:\VSDevin\WWWROOT\asasas\css1\obj\Debug\netstandard2.0\Test1.csprojAssemblyReference.cache

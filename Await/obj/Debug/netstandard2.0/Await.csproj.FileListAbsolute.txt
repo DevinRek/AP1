@@ -1,0 +1,9 @@
+D:\VSDevin\WWWROOT\asasas\Await\bin\Debug\netstandard2.0\Await.deps.json
+D:\VSDevin\WWWROOT\asasas\Await\bin\Debug\netstandard2.0\Await.dll
+D:\VSDevin\WWWROOT\asasas\Await\bin\Debug\netstandard2.0\Await.pdb
+D:\VSDevin\WWWROOT\asasas\Await\obj\Debug\netstandard2.0\Await.csproj.CoreCompileInputs.cache
+D:\VSDevin\WWWROOT\asasas\Await\obj\Debug\netstandard2.0\Await.AssemblyInfoInputs.cache
+D:\VSDevin\WWWROOT\asasas\Await\obj\Debug\netstandard2.0\Await.AssemblyInfo.cs
+D:\VSDevin\WWWROOT\asasas\Await\obj\Debug\netstandard2.0\Await.dll
+D:\VSDevin\WWWROOT\asasas\Await\obj\Debug\netstandard2.0\Await.pdb
+D:\VSDevin\WWWROOT\asasas\Await\obj\Debug\netstandard2.0\Await.csprojAssemblyReference.cache

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VSDevin\\WWWROOT\\asasas\\css1\\css1.csproj": {}
+  },
+  "projects": {
+    "D:\\VSDevin\\WWWROOT\\asasas\\css1\\css1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VSDevin\\WWWROOT\\asasas\\css1\\css1.csproj",
+        "projectName": "css1",
+        "projectPath": "D:\\VSDevin\\WWWROOT\\asasas\\css1\\css1.csproj",
+        "packagesPath": "C:\\Users\\Devin\\.nuget\\packages\\",
+        "outputPath": "D:\\VSDevin\\WWWROOT\\asasas\\css1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Devin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.recloud.com.cn/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
